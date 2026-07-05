@@ -1,6 +1,3 @@
-# This Python script is a comprehensive deep learning workflow for training a model using
-# TensorFlow/Keras for image classification tasks. Here's a breakdown of what each part of the script
-# does:
 import os
 from tensorflow.keras.preprocessing.image import ImageDataGenerator, load_img, img_to_array
 from tqdm import tqdm
